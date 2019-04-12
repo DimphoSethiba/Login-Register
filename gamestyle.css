@@ -1,0 +1,57 @@
+body{
+	background-color: rgba(40, 213, 215,0.6);
+	color: #3dd9db;
+	
+}
+
+button {
+    width: 49.5%;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #ffff1a;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+h1{
+	font-size: 60px;
+	font-family: 'Satisfy';
+	color:#28d5d7;
+	padding: 0;
+}
+
+p{
+	font-size: 30px;
+	color: #28d5d7;
+	font-family: 'Arial';
+	padding: 0;
+}
+
+.user__header{
+	text-align: center;
+	font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+
+}
+form{
+	text-align: center;
+	background-color:rgba(255, 255, 255, 0.80);
+	border-radius: 5px;
+	margin:auto ;
+    padding: 20px;
+    width: 400px;
+   
+}
